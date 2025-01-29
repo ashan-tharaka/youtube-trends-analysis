@@ -10,7 +10,7 @@ from textblob import TextBlob
 
 
 
-API_KEY='AIzaSyDlhwuRB-Y_o_ECrO5DjbJ_OGHRj8LKqt4'
+API_KEY='your youtube API KEY'
 YOUTUBE_API_SERVICE_NAME='youtube'
 YOUTUBE_API_VERSION='v3'
 
